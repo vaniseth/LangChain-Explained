@@ -1,0 +1,6 @@
+python-dotenv==1.0.0
+langchain==0.0.137
+pinecone-client==2.2.1
+pandas==1.5.3
+numpy==1.23.5
+python-docx==0.8.11
