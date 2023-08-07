@@ -30,4 +30,5 @@ print(chain.run ( 'White Sauce' ))
 
 ### Working
 
-![1691421300589](image/README/1691421300589.png)
+![1691421300589](https://github.com/vaniseth/LangChain-Explained/assets/74897823/5998050b-93fc-4d8e-820d-c5d4f3561106)
+
