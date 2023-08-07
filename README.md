@@ -29,6 +29,8 @@ Currently, it provides 6 different key functionality:
 5. Indexes
 6. Agents and Tools
 
+Learn about each one in ```./Notes``` directory
+
 ## Setup
 
 Access the notes. The notes contain code as well as it's explaination
