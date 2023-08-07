@@ -8,9 +8,11 @@ If we want to build an app on top of ChatGPT or any other LLM and then we wish t
 
 Langchain also offers to store conversation history.
 
-![1689361862320](image/README/1689361862320.png)
+![1691424781413](https://github.com/vaniseth/LangChain-Explained/assets/74897823/a7312716-b530-47bd-8f97-c2397e508767)
 
-![1689361876046](image/README/1689361876046.png)
+
+![1691424789980](https://github.com/vaniseth/LangChain-Explained/assets/74897823/a9c7d308-5bdd-48f6-871b-2f6ab3970ce8)
+
 
 LangChain allows building applications with LLMs through composability.
 
@@ -38,7 +40,7 @@ The chunks are stored as embeddings, i.e., they are the vector representations o
 
 This allows one to build language model applications that follow a general pipeline:
 
-![1691419908280](image/README/1691419908280.png)
+![1691419908280](https://github.com/vaniseth/LangChain-Explained/assets/74897823/a7e940fd-7208-451e-a5a4-d25a44435f24)
 
 
 1. User starts by asking an initial question
