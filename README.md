@@ -12,9 +12,11 @@ If we want to build an app on top of ChatGPT or any other LLM and then we wish t
 
 Langchain also offers to store conversation history.
 
-![1691424781413](image/README/1691424781413.png)
+![1691424781413](https://github.com/vaniseth/LangChain-Explained/assets/74897823/766ebd23-1ef0-49c7-846a-90c1b8cf07c2)
 
-![1691424789980](image/README/1691424789980.png)
+
+![1691424789980](https://github.com/vaniseth/LangChain-Explained/assets/74897823/7f209393-18b3-46c6-a0e7-095f11ae2f71)
+
 
 LangChain allows building applications with LLMs through composability.
 
